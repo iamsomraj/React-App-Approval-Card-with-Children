@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-App-Approval-Card-with-Children/static/js/main.64f6d4d4.chunk.js",
+    "main.js.map": "/React-App-Approval-Card-with-Children/static/js/main.64f6d4d4.chunk.js.map",
+    "runtime-main.js": "/React-App-Approval-Card-with-Children/static/js/runtime-main.ed12c123.js",
+    "runtime-main.js.map": "/React-App-Approval-Card-with-Children/static/js/runtime-main.ed12c123.js.map",
+    "static/js/2.f80285ce.chunk.js": "/React-App-Approval-Card-with-Children/static/js/2.f80285ce.chunk.js",
+    "static/js/2.f80285ce.chunk.js.map": "/React-App-Approval-Card-with-Children/static/js/2.f80285ce.chunk.js.map",
+    "index.html": "/React-App-Approval-Card-with-Children/index.html",
+    "precache-manifest.c86ea7c2dc030ff692780b7ade008c46.js": "/React-App-Approval-Card-with-Children/precache-manifest.c86ea7c2dc030ff692780b7ade008c46.js",
+    "service-worker.js": "/React-App-Approval-Card-with-Children/service-worker.js",
+    "static/js/2.f80285ce.chunk.js.LICENSE": "/React-App-Approval-Card-with-Children/static/js/2.f80285ce.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed12c123.js",
+    "static/js/2.f80285ce.chunk.js",
+    "static/js/main.64f6d4d4.chunk.js"
+  ]
+}
